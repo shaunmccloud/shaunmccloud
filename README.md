@@ -1,16 +1,16 @@
-## Hi there 👋
+# Shaun McCloud
 
-<!--
-**shaunmccloud/shaunmccloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Enterprise Technology Leader | AI • Automation • Digital Workplace
 
-Here are some ideas to get you started:
+I build secure, scalable technology systems that connect people,
+platforms, and AI while turning complex enterprise workflows into
+simpler, more productive experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+- 🤖 **AI & Intelligent Automation** — Practical AI systems that augment people and automate repetitive work.
+- 🔗 **Enterprise Integrations** — APIs and workflows connecting SaaS platforms and business systems.
+- ☁️ **Digital Workplace Architecture** — Secure, scalable collaboration and productivity ecosystems.
+- 🔐 **Security & Governance** — Practical approaches to SaaS, identity, AI, and enterprise security.
+- ⚙️ **Workflow Engineering** — Turning complex business processes into reliable automated workflows.
+- 📐 **Technology Strategy** — Connecting technical architecture to business outcomes.
